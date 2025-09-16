@@ -1,6 +1,6 @@
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
+<!-- Banner GIF (Right Side) -->
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400px" />
 </p>
 
 <!-- Typing effect intro -->
@@ -10,11 +10,23 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Student passionate about **AI, Web Development, and Data Science**
-- 💡 Skilled in **Python, React, Firebase, and AI Dev Tools**
-- 🚀 Always exploring new technologies & building cool projects
-- 📫 Reach me at: **srikeshveeramani@gmail.com**
+## 🎭 About Me (Glitch Banner)
+
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/d9j8/eyJyIjoiZnMiLCJoIjo0NSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjRkYwMDAwIiwiYmdjIjoiI0ZGMDAwMCIsInQiOjF9/U3R1ZGVudCBwYXNzaW9uYXRlIGFib3V0IEFJLCBXZWIsIERldmVsb3BtZW50LCBhbmQgRGF0YSBTY2llbmNl/neuropol-x-free.png" alt="Glitch Text"/>
+</p>
+
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/d9j8/eyJyIjoiZnMiLCJoIjo0NSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjMDBGRkZGIiwiYmdjIjoiI0ZGMDAwMCIsInQiOjF9/U2tpbGxlZCBpbiBQeXRob24sIFJlYWN0LCBGaXJlYmFzZSwgYW5kIEFJIERldiBUb29scw/neuropol-x-free.png" alt="Glitch Text"/>
+</p>
+
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/d9j8/eyJyIjoiZnMiLCJoIjo0NSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjRkYwMEZGIiwiYmdjIjoiI0ZGMDAwMCIsInQiOjF9/QWx3YXlzIGV4cGxvcmluZyBuZXcgdGVjaG5vbG9naWVzICYgYnVpbGRpbmcgY29vbCBwcm9qZWN0cw/neuropol-x-free.png" alt="Glitch Text"/>
+</p>
+
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/d9j8/eyJyIjoiZnMiLCJoIjo0NSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjRkY4QjAwIiwiYmdjIjoiI0ZGMDAwMCIsInQiOjF9/UmVhY2ggbWUgYXQ6IHNyaWtlc2h2ZWVyYW1hbmkqZ21haWwuY29t/neuropol-x-free.png" alt="Glitch Text"/>
+</p>
 
 ---
 
