@@ -56,7 +56,8 @@
 
 <!-- Contribution Graph Animation -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikesh&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikesh&bg_color=1a1b27&color=38bdae&line=56cfe1&point=f1f1f1&area=true&hide_border=true" alt="Contribution Graph"/>
+
 </p>
 
 ---
