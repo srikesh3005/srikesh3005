@@ -1,32 +1,27 @@
-<!-- Banner GIF (Right Side) -->
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400px" />
-</p>
-
-<!-- Typing effect intro -->
+<!-- Intro Typing Effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Srikesh;Student+%7C+AI+%7C+Web+Dev+%7C+Data+Science;Always+learning+new+things+%F0%9F%92%AB" alt="Typing SVG" />
 </h1>
 
 ---
 
-## 🎭 About Me (Glitch Banner)
-
-<p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/d9j8/eyJyIjoiZnMiLCJoIjo0NSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjRkYwMDAwIiwiYmdjIjoiI0ZGMDAwMCIsInQiOjF9/U3R1ZGVudCBwYXNzaW9uYXRlIGFib3V0IEFJLCBXZWIsIERldmVsb3BtZW50LCBhbmQgRGF0YSBTY2llbmNl/neuropol-x-free.png" alt="Glitch Text"/>
-</p>
-
-<p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/d9j8/eyJyIjoiZnMiLCJoIjo0NSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjMDBGRkZGIiwiYmdjIjoiI0ZGMDAwMCIsInQiOjF9/U2tpbGxlZCBpbiBQeXRob24sIFJlYWN0LCBGaXJlYmFzZSwgYW5kIEFJIERldiBUb29scw/neuropol-x-free.png" alt="Glitch Text"/>
-</p>
-
-<p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/d9j8/eyJyIjoiZnMiLCJoIjo0NSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjRkYwMEZGIiwiYmdjIjoiI0ZGMDAwMCIsInQiOjF9/QWx3YXlzIGV4cGxvcmluZyBuZXcgdGVjaG5vbG9naWVzICYgYnVpbGRpbmcgY29vbCBwcm9qZWN0cw/neuropol-x-free.png" alt="Glitch Text"/>
-</p>
-
-<p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/d9j8/eyJyIjoiZnMiLCJoIjo0NSwidyI6MTAwMCwiZnMiOjM1LCJmZ2MiOiIjRkY4QjAwIiwiYmdjIjoiI0ZGMDAwMCIsInQiOjF9/UmVhY2ggbWUgYXQ6IHNyaWtlc2h2ZWVyYW1hbmkqZ21haWwuY29t/neuropol-x-free.png" alt="Glitch Text"/>
-</p>
+<!-- Banner + About Me side by side -->
+<table>
+<tr>
+<td width="50%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
+</td>
+<td width="50%">
+  <h2>🎭 About Me</h2>
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🎓 Student passionate about AI, Web Development, and Data Science &nbsp; • &nbsp;
+    💡 Skilled in Python, React, Firebase, and AI Dev Tools &nbsp; • &nbsp;
+    🚀 Always exploring new technologies & building cool projects &nbsp; • &nbsp;
+    📫 Reach me at: <a href="mailto:srikeshveeramani@gmail.com">srikeshveeramani@gmail.com</a>
+  </marquee>
+</td>
+</tr>
+</table>
 
 ---
 
